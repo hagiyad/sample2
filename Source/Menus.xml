@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14071.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="5"/>
+  </Header>
+
+  <MenusRepository>
+    <Menus>
+      <Menu>
+        <MenuType val="4"/>
+        <ToolNumber val="2"/>
+        <Name val="ﾃﾞﾌｫﾙﾄﾌﾟﾙﾀﾞｳﾝﾒﾆｭｰ"/>
+        <LastIsn val="7"/>
+        <MenuEntry id="1">
+          <MenuType val="1"/>
+          <Description_U val="ﾌｧｲﾙ(&amp;F)"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="7"/>
+            <MenuEntry id="6">
+              <MenuType val="3"/>
+              <Description_U val="終了(&amp;X)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="28"/>
+              </Event>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="2">
+          <MenuType val="1"/>
+          <Description_U val="編集(&amp;E)"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="19"/>
+            <MenuEntry id="1">
+              <MenuType val="3"/>
+              <Description_U val="ｷｬﾝｾﾙ(&amp;A)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="33"/>
+              </Event>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="変更取消(&amp;U)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="180"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="115"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="切り取り(&amp;T)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="11"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="78"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="ｺﾋﾟｰ(&amp;C)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="239"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="79"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="貼り付け(&amp;P)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="240"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="80"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="8">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="行作成(&amp;R)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="37"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="195"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="9">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="行削除(&amp;I)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="36"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="196"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="10">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="すべて選択(&amp;E)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="286"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="194"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="11">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="12">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="ｽﾞｰﾑ(&amp;Z)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="34"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="199"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="13">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="広域表示(&amp;W)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="35"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="198"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="14">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="15">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="複写(&amp;I)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="77"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="197"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="16">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="NULLに設定(&amp;S)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="209"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="200"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="3">
+          <MenuType val="1"/>
+          <Description_U val="ｵﾌﾟｼｮﾝ(&amp;O)"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="21"/>
+            <MenuEntry id="1">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="修正(&amp;M)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="30"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="23"/>
+                <ToolGroup val="1"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="登録(&amp;C)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="31"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="24"/>
+                <ToolGroup val="1"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="照会(&amp;Q)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="32"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="25"/>
+                <ToolGroup val="1"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="位置付(&amp;L)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="122"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="26"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="位置付／次候補(&amp;N)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="165"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="27"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="範囲(&amp;R)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="123"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="28"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="8">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="ｲﾝﾃﾞｯｸｽ(&amp;V)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="124"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="29"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="9">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="ｿｰﾄ(&amp;T)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="125"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="30"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="10">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="入出力ﾌｧｲﾙ(&amp;F)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="126"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="31"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="11">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="ﾃﾞｰﾀ出力(&amp;P)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="160"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="193"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="12">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="13">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="テーブル先頭"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="72"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="32"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="14">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="前画面"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="66"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="34"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="15">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="前行"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="64"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="36"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="16">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="次行"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="65"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="37"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="17">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="次画面"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="67"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="35"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="18">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="テーブル末尾"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="73"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="33"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="20">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="ﾛｸﾞｵﾝ(&amp;O)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="185"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="19"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="4">
+          <MenuType val="1"/>
+          <Description_U val="顧客(&amp;C)"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="5"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="リッチクライアント－顧客"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="3" comp="-1" obj="3"/>
+              <SourceContext val="77"/>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="2"/>
+              <Flags val="1088"/>
+              <Description_U val="顧客－スクリーンモード"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="4" comp="-1" obj="4"/>
+              <SourceContext val="77"/>
+              <Tool>
+                <ToolNumber val="18"/>
+                <ToolGroup val="6"/>
+                <Tooltip_U val="顧客スクリーンモード"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="2"/>
+              <Flags val="64"/>
+              <Description_U val="照会－顧客ラインモード"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="5" comp="-1" obj="5"/>
+              <SourceContext val="77"/>
+              <Tool>
+                <ToolNumber val="17"/>
+                <ToolGroup val="6"/>
+                <Tooltip_U val="顧客ラインモード"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="2"/>
+              <Flags val="1024"/>
+              <Description_U val="顧客－ラインモード"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="6" comp="-1" obj="6"/>
+              <SourceContext val="77"/>
+              <Tool>
+                <ToolNumber val="15"/>
+              </Tool>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="5">
+          <MenuType val="1"/>
+          <Description_U val="帳票印刷(&amp;R)"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="9"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="印刷 - 顧客"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="14" comp="-1" obj="14"/>
+              <SourceContext val="77"/>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="2"/>
+              <Description_U val="印刷－顧客２"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="15" comp="-1" obj="15"/>
+              <SourceContext val="77"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="2"/>
+              <Description_U val="印刷－仕入先一覧"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="16" comp="-1" obj="16"/>
+              <SourceContext val="77"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="2"/>
+              <Description_U val="受注書印刷"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="17" comp="-1" obj="17"/>
+              <SourceContext val="77"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="2"/>
+              <Description_U val="仕入先別製品印刷"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="18" comp="-1" obj="18"/>
+              <SourceContext val="77"/>
+            </MenuEntry>
+            <MenuEntry id="9">
+              <MenuType val="2"/>
+              <Description_U val="受注管理"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="8" comp="-1" obj="8"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="6">
+          <MenuType val="1"/>
+          <Description_U val="ｳｨﾝﾄﾞｳ(&amp;W)"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="8"/>
+            <MenuEntry id="1">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="全て閉じる(&amp;A)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="370"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="208"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="次のｳｨﾝﾄﾞｳ(&amp;N)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="462"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="206"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="前のｳｨﾝﾄﾞｳ(&amp;P)"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="463"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="205"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="7"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="ｳｨﾝﾄﾞｳの一覧(&amp;M)..."/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="471"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="207"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+      </Menu>
+      <Menu>
+        <ToolNumber val="3"/>
+        <Name val="商品選択"/>
+        <LastIsn val="3"/>
+        <MenuEntry id="1">
+          <MenuType val="3"/>
+          <Description_U val="商品選択"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Event>
+            <EventType val="S"/>
+            <KeyCombinationID val="84"/>
+          </Event>
+          <AccessKeyID val="84"/>
+        </MenuEntry>
+        <MenuEntry id="3">
+          <MenuType val="2"/>
+          <Description_U val="受注管理"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="8" comp="-1" obj="8"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+      </Menu>
+      <Menu>
+        <ToolNumber val="4"/>
+        <Name val="在庫金額合計"/>
+        <LastIsn val="2"/>
+        <MenuEntry id="1">
+          <MenuType val="3"/>
+          <Description_U val="在庫金額合計"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Event>
+            <EventType val="U"/>
+            <Parent val="32768"/>
+            <PublicObject comp="-1" obj="1"/>
+          </Event>
+        </MenuEntry>
+      </Menu>
+    </Menus>
+  </MenusRepository>
+
+</Application>

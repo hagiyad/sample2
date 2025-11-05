@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14071.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="7"/>
+    <LastIsnFolder val="0"/>
+  </Header>
+
+  <DataRepositoryProperties>
+    <Relationships>
+      <Relationship>
+        <SourceTable/>
+        <ReferencesTable/>
+        <RelationshipFields>
+          <RelationshipField>
+            <Source/>
+            <References/>
+          </RelationshipField>
+        </RelationshipFields>
+      </Relationship>
+    </Relationships>
+  </DataRepositoryProperties>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="顧客" Resident="N" UniqueISNConvState="12" data_source="GS_Data" id="1" length="6365" name="顧客" offset="712"/>
+      <DataObject PhysicalName="取引先" Resident="N" UniqueISNConvState="12" data_source="GS_Data" id="2" length="4758" name="取引先" offset="7078"/>
+      <DataObject PhysicalName="受注" Resident="N" UniqueISNConvState="12" data_source="GS_Data" id="3" length="6159" name="受注" offset="11837"/>
+      <DataObject PhysicalName="商品" Resident="N" UniqueISNConvState="12" data_source="GS_Data" id="4" length="4775" name="商品" offset="17997"/>
+      <DataObject PhysicalName="受注明細行" Resident="N" UniqueISNConvState="12" data_source="GS_Data" id="5" length="4199" name="受注明細行" offset="22773"/>
+      <DataObject PhysicalName="国名" Resident="N" UniqueISNConvState="12" data_source="GS_Data" id="6" length="2175" name="国名" offset="26973"/>
+      <DataObject PhysicalName="都市名" Resident="N" UniqueISNConvState="12" data_source="GS_Data" id="7" length="3455" name="都市名" offset="29149"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="30944362-134055244"/>
+
+</Application>

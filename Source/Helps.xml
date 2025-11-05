@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14071.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="8"/>
+    <LastIsnFolder val="0"/>
+  </Header>
+
+  <HelpRepository>
+    <HelpScreens>
+      <Help Type="I" id="1" name="内部ヘルプ">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="P" id="2" name="自動ヘルプ">
+        <PropertyList model="HELP_PROMPT"/>
+      </Help>
+      <Help Type="W" id="3" name="Windowsヘルプ">
+        <PropertyList model="HELP_WINDOWS"/>
+      </Help>
+      <Help Type="U" id="4" name="URL">
+        <PropertyList model="HELP_URL"/>
+      </Help>
+    </HelpScreens>
+  </HelpRepository>
+
+</Application>

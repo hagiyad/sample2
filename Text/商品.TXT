@@ -1,0 +1,39 @@
+    1 Magic eDeveloper V9Plus                                      発売されてから9年目のロングセラー商品                                                                        1     45,000   1,000
+    2 Magic xpa Studio                                             モバイルに対応しました                                                                                       1    600,000     100
+    3 Magic uniPaaS V1Plus                                         RIAの開発ができます                                                                                          1    600,000     500
+    4 Magic Studio V10                                             2006年末デビューしました                                                                                     2    600,000   1,000
+    5 Magic xpi V3.2                                               SAP Certified Integration                                                                                    3  2,000,000      20
+    6 Apple 2 GB iPod Nano                                         Apple 2 GB iPod Nan                                                                                          1      4,000    2,000
+    7 HP iPaq hw6515 Mobile Messenger                              HP iPaq hw6515 Mobile Messenger                                                                              1        439       0
+    8 Key Chain With LED Light                                     Key Chain With LED Light                                                                                     1          2       0
+    9 Nature Sound Relaxation Humidifier                           Nature Sound Relaxation Humidifier                                                                           1         37       0
+   10 Copenhagen Portable TFT LCD                                  Copenhagen Portable TFT LCD                                                                                  2        350       0
+   11 Talking Blood Pressure Monitor                               Talking Blood Pressure Monitor                                                                               2        123       0
+   12 Undercover Surveyor Binocular                                Undercover Surveyor Binocular                                                                                2         90       0
+   13 Mosquito Repelling Wrist Watch                               Mosquito Repelling Wrist Watch                                                                               2          5       0
+   14 Infrared Thermometer Gun                                     Infrared Thermometer Gun                                                                                     3         10       2
+   15 1.3 Mega Digital Binocular Camera                            1.3 Mega Digital Binocular Camera                                                                            3        785       3
+   16 Copenhagen Slim Portable DVD                                 Copenhagen Slim Portable DVD                                                                                 3        214       4
+   17 KaraMax Karaoke Portable Microphone                          KaraMax Karaoke Portable Microphone                                                                          2        160       7
+   18 Ultra Zoom Binoculars                                        Ultra Zoom Binoculars                                                                                        3        250       8
+   19 2.4 GHz Video Camera Color Pen                               2.4 GHz Video Camera Color Pen                                                                               2        178       1
+   20 Pocket Electronic Whistle                                    Pocket Electronic Whistle                                                                                    1          2      10
+   21 Robot Vacuum Cleaner                                         Robot Vacuum Cleaner                                                                                         1        230      10
+   22 Home Hot Dog Grill                                           Home Hot Dog Grill                                                                                           1         80      20
+   23 Ultra Slim 22 Channel Digital Walkie Talkie                  Ultra Slim 22 Channel Digital Walkie Talkie                                                                  2         43       2
+   24 G-force Giant Face Atomic Clock With Thermometer             G-force Giant Face Atomic Clock With Thermometer                                                             2         32       4
+   25 Magic Mister Lamp and Fog Humidifier Fall                    Magic Mister Lamp and Fog Humidifier Fall                                                                    3         53       6
+   26 Memory Foam Seat Cushion                                     Memory Foam Seat Cushion                                                                                     1         19       7
+   27 Autobahn Valet Key Chain Led Light                           Autobahn Valet Key Chain Led Light                                                                           2          3       8
+   28 Zen Humidifier LED Lamp with Water Fall Effect               Zen Humidifier LED Lamp with Water Fall Effect                                                               2         55       9
+   29 SUSITA All-Weather Digital Handheld Compass light            SUSITA All-Weather Digital Handheld Compass light                                                            1         19      10
+   30 HealthCare Foldable Full Body Massage Lounger                HealthCare Foldable Full Body Massage Lounger                                                                1        199      12
+   31 Copenhagen Noise-Crippling Headphones                        Copenhagen Noise-Crippling Headphones                                                                        1         59      10
+   32 Garmin Street Pilot C330 GPS en                              Garmin Street Pilot C330 GPS en                                                                              1        897       5
+   33 LighterCam                                                   LighterCam                                                                                                   2         47       5
+   34 Portable Ice Maker                                           Portable Ice Maker                                                                                           2        286       5
+   35 Ergo-Thermodynamic Synchronized Executive Chair              Ergo-Thermodynamic Synchronized Executive Chair                                                              2        495       5
+   36 Master Survival Power Supply Flashlight                      Master Survival Power Supply Flashlight                                                                      2         14       4
+   37 Weather Station Atomic Wall Clock                            Weather Station Atomic Wall Clock                                                                            1         54       5
+   38 Single Digital Walkie Talkie Wristwatch                      Single Digital Walkie Talkie Wristwatch 
+   39 Logitech Z-2300 Speaker System                               Logitech Z-2300 Speaker System                                                                               1        143       0

@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+    <style>
+  body       { line-height: 130%; }
+  p.doctitle { text-align: left; font-size: x-large; line-height: 150%;}
+  hr         { color: #808080; width: 100%;  height: 8pt }
+  table      { border: 1pt solid #111111; border-collapse: collapse; } 
+  th         { border: 1pt solid #111111; padding: 2pt; background-color: Khaki; }
+  td         { border: 1pt solid #111111; padding: 4pt;  vertical-align: top; }
+  img        { border-style: none; margin: 1em; } 
+  img.nomrgn { border-style: none; margin: 0pt; } 
+  h1         { line-height: 100%; }
+  h2         { line-height: 100%; }
+  h3         { line-height: 100%; text-decoration: underline; }
+  h4         { line-height: 100%; font-weight: bold; }
+  pre        { line-height: 100%; border: 1pt solid #111111; padding: 1em; background-color: lightyellow}
+  span.smalltitle { font-size: large; font-weight: bold}
+  ul li      { padding-top: 0.5em }
+  ul ul li   { padding-top: 0em }
+  ol li      { padding-top: 0em }
+    </style>
+    <title>Getting Started for RIA サンプルプロジェクトの導入ガイド </title>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  </head>
+  <body>
+    <p align="right"><b>マジックソフトウェア・ジャパン 株式会社<br>
+        ２０２２年３月</b></p>
+    <h1 style="font-family: 'Futura Com Medium';">Getting Started for RIA 
+	サンプルプロジェクトの導入ガイド<font color="#ff0000"> </font></h1>
+    <p>『Getting Started for RIA 4.x』は、本文の説明を元に、プロジェクトを作成していくことになっています。<br>
+	提供しているサンプルプロジェクトはその完成品となります。本文書では、Getting Started for RIA 
+	の完成プロジェクトを実行させる上で必要な環境設定について説明しています。</p>
+    <hr>
+    <h1> 目次</h1>
+    <ol>
+      <li><a href="#ENV">動作環境</a></li>
+      <li><a href="#FILES">提供ファイル一覧</a></li>
+      <li><a href="#HOWTOINSTALL">インストール方法</a></li>
+      <li><a href="#CHANGES">変更内容 </a></li>
+    </ol>
+    <a href="#LIMITATION">
+      <hr> </a>
+    <h1><a href="#LIMITATION"></a><a name="ENV">1.動作環境</a></h1>
+    <ul>
+        <li>本サンプルプロジェクトを実行させるには、予め以下のソフトウエアをインストールしておく必要があります。<br />
+        <ul>
+			<li>
+            <a href="https://lg.magicsoftware.com/ja/magicxpa4-eval-dl" target="_blank">Magic xpa 
+			4.7 Enterprise Studio 体験版</a></li>
+			<li>
+            <a href="https://lg.magicsoftware.com/ja/reportsmagic-eval-dl" target="_blank">ReportsMagic 2.1 体験版</a></li>
+		</ul>
+      </li>
+    </ul>
+    <hr>
+    <h1><a name="FILES">２．提供ファイル一覧</a></h1>
+    <blockquote>
+      <p style="height: 27px">本サンプルプロジェクトには、以下のフォルダとファイルがあります。<table style="border-style: none" border="1">
+          <tbody>
+            <tr>
+              <td style="border-style: none"> フォルダの内容については、</td>
+              <td style="border-style: none"> 
+			  Mgxpa_Getting_Started_RIA.pdfに記載されています。</td>
+            </tr>
+          </tbody>
+        </table>
+      </p>
+      <pre>フォルダ
+   Env                                              
+   Images
+   Products_Pictures
+   RFF
+   Source
+   Test
+ファイル
+   add.ini                       ： 追加の環境設定ファイル
+   GS_Data.sqlite                ： SQLite用データベースファイル 
+   Magic xpa RIA.edp             ： Magic xpa用プロジェクトファイル   
+   Mgxpa_Getting_Started_RIA.pdf ： Getting Started 本文</pre>
+      </blockquote>
+    <hr>
+    <h1><a name="HOWTOINSTALL">３．セットアップ方法</a></h1>
+    <blockquote>
+      <p>以下の手順でセットアップを行ってください。</p>
+		<ol>
+			<li>Magic xpa 4.7 Enterprise Studio 体験版をインストール</li>
+			<li>ReportsMagic 2.1 体験版をインストール</li>
+			<li>以下のような起動用のショートカットを作成<br>&lt;Magic xpa のインストールフォルダ&gt;\MgxpaStudio.exe" 
+			/DefaultProject=&lt;サンプルプロジェクトのフォルダ&gt;\Magic xpa RIA.edp 
+			@&lt;サンプルプロジェクトのフォルダ&gt;\add.ini"</li>
+			<li>&lt;サンプルプロジェクトのフォルダ&gt;\RFF\Order.htm を &lt;Magic xpa 
+			のインストールフォルダ&gt;\PublishedApplications フォルダにコピー</li>
+		</ol>
+		<p>&lt;サンプルプロジェクトのフォルダ&gt;\Text 
+		には、使用しているデータソースの内容が格納されています。データソースを初期化したい場合に利用してください。</p>
+		<a name="LicenseExpirationDate"></a>以上</blockquote>
+  </body>
+</html>
