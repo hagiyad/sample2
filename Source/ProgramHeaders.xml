@@ -2,7 +2,7 @@
 <Application>
 
   <Header>
-    <Version val="14071.00"/>
+    <Version val="14061.00"/>
     <WithIsn val="Y"/>
   </Header>
 
@@ -26,7 +26,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="はじめてのプログラム" ISN_2="1" LastIsn="1" id="2">
@@ -47,7 +47,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="リッチクライアント－顧客" ISN_2="1" LastIsn="1" id="3">
@@ -67,7 +67,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="顧客－スクリーンモード" ISN_2="1" LastIsn="1" id="4">
@@ -87,7 +87,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="照会－顧客ラインモード" ISN_2="1" LastIsn="1" id="5">
@@ -107,7 +107,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="顧客－ラインモード" ISN_2="1" LastIsn="1" id="6">
@@ -127,7 +127,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="取引先－ラインモード" ISN_2="1" LastIsn="1" id="7">
@@ -147,7 +147,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="受注管理" ISN_2="1" LastIsn="1" id="8">
@@ -167,7 +167,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="商品照会" ISN_2="1" LastIsn="1" id="9">
@@ -187,7 +187,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="顧客選択" ISN_2="1" LastIsn="1" id="10">
@@ -210,7 +210,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="取引先選択" ISN_2="1" LastIsn="1" id="11">
@@ -233,7 +233,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="商品選択" ISN_2="1" LastIsn="1" id="12">
@@ -256,7 +256,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="国名一覧" ISN_2="1" LastIsn="1" id="13">
@@ -276,7 +276,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="印刷 - 顧客" ISN_2="1" LastIsn="1" id="14">
@@ -295,7 +295,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="印刷－顧客２" ISN_2="1" LastIsn="1" id="15">
@@ -313,7 +313,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="印刷－仕入先一覧" ISN_2="1" LastIsn="1" id="16">
@@ -331,7 +331,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="受注書印刷" ISN_2="1" LastIsn="1" id="17">
@@ -352,10 +352,10 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
-      <Header Description="仕入先別製品印刷" ISN_2="1" LastIsn="2" id="18">
+      <Header Description="仕入先別製品印刷" ISN_2="1" LastIsn="1" id="18">
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -370,7 +370,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="738214" _time="54973" date="2022/02/28" time="15:16:13"/>
       </Header>
-      <SourceFileTimeStamp _date="738214" _time="22574" date="2022/02/28" time="06:16:14"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
     <Program>
       <Header Description="TEST" ISN_2="1" LastIsn="1" id="37">
@@ -390,7 +390,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="739534" _time="55595" date="2025/10/10" time="15:26:35"/>
       </Header>
-      <SourceFileTimeStamp _date="739534" _time="23195" date="2025/10/10" time="06:26:35"/>
+      <SourceFileTimeStamp _date="739560" _time="28653" date="2025/11/05" time="07:57:33"/>
     </Program>
   </ProgramsRepositoryHeaders>
 
